@@ -1,0 +1,54 @@
+.bgcolor{
+    background-color: darkgrey;
+    }
+
+    
+    
+    /*start about us*/
+.aboutus
+{
+    margin:15px;
+}
+/*End about us*/
+
+
+.header{
+   position: relative;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 20%;
+   color: grey;
+   background-color: mediumspringgreen;
+}
+
+
+   
+.col-lg-7{
+    height:20px;
+    position :relative;
+}
+
+.navbar li a, .navbar .navbar-brand{
+    color: whitesmoke !important;
+}
+.navbar-nav li a:visited{
+    color: cornflowerblue !important;
+    background-color: green !important;
+} 
+
+.navbar-nav li a:hover {
+    color: steelblue !important;
+    background-color: burlywood !important;
+} 
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+ 
+
+
+
+
